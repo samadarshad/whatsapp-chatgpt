@@ -19,5 +19,8 @@
   },
   "devDependencies": {
     "prettier-eslint": "^16.2.0"
+  },
+  "engines": {
+    "node": "20.7.0"
   }
 }
